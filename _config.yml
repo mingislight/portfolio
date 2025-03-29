@@ -3,6 +3,3 @@ logo: /assets/img/headshot.png
 description: Data Analyst | Machine Learning Researcher | Healthcare IT Specialist
 theme: jekyll-theme-minimal
 #show_downloads: false
-
-sass:
-  style: compressed
