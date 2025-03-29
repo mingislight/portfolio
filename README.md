@@ -1,4 +1,4 @@
-**Data Analyst | Healthcare IT Specialist | Machine Learning Researcher**
+#Data Analyst | Healthcare IT Specialist | Machine Learning Researcher#
 
 📍 Bozeman, Montana | 📧 [mingcomputerscience@gmail.com](mailto:mingcomputerscience@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ming-ai)
 
